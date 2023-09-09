@@ -1,1 +1,1 @@
-print("Hello world, from client!")
+print("I am a client script. How may I assist you?")
